@@ -1,0 +1,25 @@
+div :first-child{
+    color: red;
+    background: yellow;
+
+
+}
+div :last-child{
+    color: red;
+    background: yellow;
+}
+div :nth-child(3){
+    color: red;
+    background: yellow;
+}
+div :nth-child(5){
+    color: red;
+    background: yellow;
+}
+h1:hover{
+
+    color: rgb(21, 225, 51);
+}
+a:hover{
+    color: rgb(228, 12, 12);
+}
